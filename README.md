@@ -19,7 +19,7 @@
 ## 📸 Aperçu / Preview
 
 <div align="center">
-  <img src="assets/menu.png" alt="Menu principal" width="750"/>
+  <img src="assets/Screenshot_2026-03-22_00_35_46.png" alt="Menu principal" width="750"/>
 </div>
 
 ---
